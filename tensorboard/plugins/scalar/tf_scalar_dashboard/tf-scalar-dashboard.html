@@ -310,7 +310,7 @@ limitations under the License.
       },
 
       resetAllDomains() {
-        const charts = this.querySelectorAll('tf-line-chart-data-loader');
+        const charts = this.root.querySelectorAll('tf-line-chart-data-loader');
         charts.forEach((chart) => {chart.resetDomain()});
       },
 
