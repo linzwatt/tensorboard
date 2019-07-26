@@ -64,7 +64,7 @@ export const palettes = {
     '#33bbee',  // cyan
     '#ee3377',  // magenta
     '#009988',  // teal
-    '#bbbbbb',  // grey
+    '#444444',  // grey
   ],
   // These palettes try to be better for color differentiation.
   // https://personal.sron.nl/~pault/
@@ -87,7 +87,7 @@ export const palettes = {
     '#ccbb44',
     '#ee6677',
     '#aa3377',
-    '#bbbbbb',
+    '#444444',
   ],
   // based on this palette: http://mkweb.bcgsc.ca/biovis2012/
   colorBlindAssist5: [
